@@ -8,3 +8,4 @@ get remote branch with: git branch -remote
 git add.
 git commit -m "Suhel Maharjan Lab Exam"
 create branch in the repo with name git branch BSCSCIT_Lab_Test
+add two new commit in the repo
