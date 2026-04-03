@@ -1,0 +1,9 @@
+login in the github
+click the fork and fork the repo to your own repo
+then clone the repo with: git clone https://github.com/suhelachsstudent/CSIT7th.git
+then git init
+create branch with: git branch BSCSCIT_Lab_Test
+get local branch with:  git branch
+get remote branch with: git branch -remote
+git add.
+git commit -m "Suhel Maharjan Lab Exam"
